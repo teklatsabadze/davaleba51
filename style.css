@@ -1,0 +1,23 @@
+.box{
+    width: 550px;
+    height: 550px;
+    border: 1px solid gray;
+}
+.lists{
+    padding-top: 80px;
+    padding-left: 110px;
+}
+.text1{
+    color: gray;
+    padding-left: 110px;
+}
+.photo{
+    width: 305px;
+    height: 226px;
+    padding-left: 110px;
+}
+.text2{
+    color: blue;
+    padding-left: 110px;
+    padding-bottom: 80px;
+}
